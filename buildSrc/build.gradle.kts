@@ -18,7 +18,7 @@ dependencies {
     //implementation("com.fasterxml.jackson.module:jackson-module-kotlin:$jacksonVersion")
     implementation("com.fasterxml.jackson.jr:jackson-jr-objects:$jacksonVersion")
     implementation("com.fasterxml.jackson.jr:jackson-jr-stree:$jacksonVersion")
-    implementation("com.electronwill.night-config:toml:3.6.3")
+    implementation("com.electronwill.night-config:toml:3.6.6")
 }
 
 java.toolchain.languageVersion.set(JavaLanguageVersion.of(8))
