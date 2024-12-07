@@ -6,7 +6,7 @@ repositories {
     mavenCentral()
 }
 
-val jacksonVersion = "2.12.0"
+val jacksonVersion = "2.13.1"
 
 dependencies {
     implementation(gradleApi())
